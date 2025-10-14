@@ -1,4 +1,4 @@
-## **Materi Pembelajaran Mendalam Minggu 5-6: Analisis Ancaman & Kerentanan Siber Militer**
+## **Materi Pembelajaran Minggu 5-6: Analisis Ancaman & Kerentanan Siber Militer**
 
 **Abstrak**
 
@@ -403,6 +403,28 @@ Bagian ini mentransisikan pengetahuan teoretis yang telah diperoleh ke dalam apl
           * **Contoh Jawaban:** T1560.001 - *Archive via Utility* (menggunakan WinRAR untuk mengompres file), T1041 - *Exfiltration Over C2 Channel* (mengirim data terkompresi secara perlahan melalui saluran C2 yang terenkripsi).
     6.  **Diskusi Defensif (10 menit):** Setelah memetakan rantai serangan, setiap kelompok mendiskusikan: Di setiap langkah, kontrol keamanan atau data log apa yang dapat membantu kita **mendeteksi atau menghentikan** teknik spesifik ini? (Contoh: Untuk mendeteksi T1059.001, kita memerlukan *logging* skrip PowerShell yang mendetail).
 
+
+```mermaid
+graph LR
+    A[MULAI: PROFIL AKTOR ANCAMAN APT28] --> B(NAMA LAIN: Fancy Bear, Sofacy, Strontium);
+    B --> C{ASAL/AFILIASI};
+    C --> D[Unit Intelijen Militer Rusia / GRU - Ditujukan untuk Spionase Siber Strategis];
+    D --> E{MOTIVASI UTAMA};
+    E --> F[Spionase Siber/Pengumpulan Intelijen: Militer, Pemerintah, Organisasi Keamanan, & Politik];
+    F --> G{AKSES AWAL - INITIAL ACCESS - Taktik Khas};
+    G --> H[T1566.001 - Spearphishing Attachment/Link /Email dengan Lampiran/URL Berbahaya];
+    H --> I[T1078 - Valid Accounts - Password Spraying/Brute-force pada Layanan Publik];
+    I --> J{EKSEKUSI & PERSISTENSI};
+    J --> K[T1059.001 - Command and Scripting Interpreter/PowerShell untuk Eksekusi Malware];
+    K --> L[T1547.001 - Registry Run Keys/Mekanisme Persistensi; T1560.001 - Archive via Utility WinRAR/ZIP];
+    L --> M{GERAKAN LATERAL & PENGUMPULAN};
+    M --> N[T1021.002 - SMB/Windows Admin Shares - Menggunakan Kredensial Curian untuk Akses Berbagi];
+    N --> O[T1003 - OS Credential Dumping - Mencuri Hash/Kredensial dari Sistem seperti SAM/NTDS];
+    O --> P{EKSFILTRASI/EXFILTRATION};
+    P --> Q[T1041 - Exfiltration Over C2 Channel - Data Terkompresi Dikirim Perlahan melalui Saluran C2 Terenkripsi];
+    Q --> R[AKHIR: TUJUAN TERCAPAI - Spionase/Pengumpulan Intelijen];
+
+```
 Lokakarya ini memberikan metode terstruktur bagi para analis untuk beralih dari sekadar mengetahui adanya ancaman menjadi memahami *bagaimana* ancaman tersebut beroperasi, yang merupakan langkah krusial untuk membangun pertahanan yang efektif dan berbasis intelijen.
 
 -----
