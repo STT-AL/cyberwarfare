@@ -380,35 +380,35 @@ Peserta akan dibagi menjadi dua tim: Tim Proposisi (mendukung mosi) dan Tim Opos
 
 >**A. Kerangka Argumentasi Tim Proposisi (Mendukung Respons Militer Siber)**
 
-* **Argumentasi Kualifikasi Hukum Serangan Awal:**
-    * **Pelanggaran Kedaulatan Serius:** Serangan terhadap pelabuhan adalah pelanggaran kedaulatan yang tidak dapat diperdebatkan (Tallinn Manual, Aturan 4), karena menghasilkan efek fisik yang merusak (kelumpuhan operasional) di dalam teritori Arkara.
-    * **Memenuhi Ambang Batas "Penggunaan Kekuatan" (*Use of Force*):** Menggunakan kriteria "skala dan efek" (Aturan 69), tim dapat berargumen bahwa serangan ini memenuhi ambang batas *Use of Force*. Tingkat keparahannya sangat signifikan, menyebabkan disrupsi ekonomi skala nasional yang dapat mengancam stabilitas negara. Ini bukan sekadar gangguan minor, melainkan serangan terkoordinasi terhadap Infrastruktur Informasi Vital (IIV) yang setara dengan blokade fisik.
-    * **Potensial sebagai "Serangan Bersenjata" (*Armed Attack*):** Argumen yang lebih agresif adalah bahwa kelumpuhan urat nadi ekonomi sebuah negara kepulauan merupakan serangan terhadap keamanan nasional yang efeknya sebanding dengan serangan militer. Ini mengaktifkan hak inheren untuk membela diri di bawah Pasal 51 Piagam PBB.
+>* **Argumentasi Kualifikasi Hukum Serangan Awal:**
+>    * **Pelanggaran Kedaulatan Serius:** Serangan terhadap pelabuhan adalah pelanggaran kedaulatan yang tidak dapat diperdebatkan (Tallinn Manual, Aturan 4), karena menghasilkan efek fisik yang merusak (kelumpuhan operasional) di dalam teritori Arkara.
+>    * **Memenuhi Ambang Batas "Penggunaan Kekuatan" (*Use of Force*):** Menggunakan kriteria "skala dan efek" (Aturan 69), tim dapat berargumen bahwa serangan ini memenuhi ambang batas *Use of Force*. Tingkat keparahannya sangat signifikan, menyebabkan disrupsi ekonomi skala nasional yang dapat mengancam stabilitas negara. Ini bukan sekadar gangguan minor, melainkan serangan terkoordinasi terhadap Infrastruktur Informasi Vital (IIV) yang setara dengan blokade fisik.
+>    * **Potensial sebagai "Serangan Bersenjata" (*Armed Attack*):** Argumen yang lebih agresif adalah bahwa kelumpuhan urat nadi ekonomi sebuah negara kepulauan merupakan serangan terhadap keamanan nasional yang efeknya sebanding dengan serangan militer. Ini mengaktifkan hak inheren untuk membela diri di bawah Pasal 51 Piagam PBB.
 
-* **Justifikasi Hukum untuk Respons Balasan:**
-    * **Hak untuk Membela Diri (*Self-Defense*):** Jika serangan awal dikualifikasikan sebagai *armed attack*, maka Arkara memiliki hak yang jelas untuk merespons dengan kekuatan yang perlu (*necessary*) dan proporsional (*proportional*).
-    * **Tindakan Balasan yang Sah (*Lawful Countermeasures*):** Bahkan jika serangan awal hanya dianggap sebagai *use of force* (bukan *armed attack*), Arkara tetap berhak melakukan *countermeasures*. Tindakan ini harus bertujuan untuk memaksa Samudera Biru menghentikan tindakan ilegalnya dan harus bersifat reversibel (sementara). Menonaktifkan satelit secara temporer lebih memenuhi kriteria ini daripada respons kinetik yang merusak secara permanen.
+>* **Justifikasi Hukum untuk Respons Balasan:**
+>    * **Hak untuk Membela Diri (*Self-Defense*):** Jika serangan awal dikualifikasikan sebagai *armed attack*, maka Arkara memiliki hak yang jelas untuk merespons dengan kekuatan yang perlu (*necessary*) dan proporsional (*proportional*).
+>    * **Tindakan Balasan yang Sah (*Lawful Countermeasures*):** Bahkan jika serangan awal hanya dianggap sebagai *use of force* (bukan *armed attack*), Arkara tetap berhak melakukan *countermeasures*. Tindakan ini harus bertujuan untuk memaksa Samudera Biru menghentikan tindakan ilegalnya dan harus bersifat reversibel (sementara). Menonaktifkan satelit secara temporer lebih memenuhi kriteria ini daripada respons kinetik yang merusak secara permanen.
 
-* **Analisis Proporsionalitas dan Kebutuhan (*Proportionality and Necessity*):**
-    * **Kebutuhan (*Necessity*):** Respons diperlukan karena Samudera Biru telah menyangkal keterlibatannya, menutup jalur diplomatik untuk resolusi cepat. Respons siber diperlukan untuk mengirim sinyal strategis yang kuat dan mencegah serangan lebih lanjut.
-    * **Proporsionalitas (*Proportionality*):** Respons yang diusulkan bersifat proporsional. Serangan awal menargetkan infrastruktur ekonomi sipil (*dual-use*). Respons balasan menargetkan infrastruktur militer murni (satelit komunikasi militer), sehingga lebih sejalan dengan prinsip pembedaan (*distinction*). Selain itu, respons ini bersifat non-destruktif dan temporer, tidak menyebabkan korban jiwa, sehingga lebih proporsional daripada opsi serangan rudal.
+>* **Analisis Proporsionalitas dan Kebutuhan (*Proportionality and Necessity*):**
+>    * **Kebutuhan (*Necessity*):** Respons diperlukan karena Samudera Biru telah menyangkal keterlibatannya, menutup jalur diplomatik untuk resolusi cepat. Respons siber diperlukan untuk mengirim sinyal strategis yang kuat dan mencegah serangan lebih lanjut.
+>    * **Proporsionalitas (*Proportionality*):** Respons yang diusulkan bersifat proporsional. Serangan awal menargetkan infrastruktur ekonomi sipil (*dual-use*). Respons balasan menargetkan infrastruktur militer murni (satelit komunikasi militer), sehingga lebih sejalan dengan prinsip pembedaan (*distinction*). Selain itu, respons ini bersifat non-destruktif dan temporer, tidak menyebabkan korban jiwa, sehingga lebih proporsional daripada opsi serangan rudal.
 
-**B. Kerangka Argumentasi Tim Oposisi (Menentang Respons Militer Siber)**
+>**B. Kerangka Argumentasi Tim Oposisi (Menentang Respons Militer Siber)**
 
-* **Problem Atribusi sebagai Hambatan Hukum dan Etis:**
-    * **Standar Pembuktian:** Atribusi dengan keyakinan 85-90% tidak sama dengan bukti absolut "tanpa keraguan" (*beyond a reasonable doubt*). Melancarkan respons militer, bahkan siber, terhadap negara berdaulat lain berdasarkan atribusi yang tidak 100% pasti adalah tindakan yang sangat gegabah dan berisiko memicu konflik dengan pihak yang salah. Ini adalah pelanggaran etika *Jus ad Bellum* (khususnya *just cause*).
-    * **Risiko *False Flag*:** Tidak dapat dikesampingkan kemungkinan bahwa serangan tersebut dilakukan oleh pihak ketiga dengan tujuan untuk memprovokasi perang antara Arkara dan Samudera Biru.
+>* **Problem Atribusi sebagai Hambatan Hukum dan Etis:**
+>    * **Standar Pembuktian:** Atribusi dengan keyakinan 85-90% tidak sama dengan bukti absolut "tanpa keraguan" (*beyond a reasonable doubt*). Melancarkan respons militer, bahkan siber, terhadap negara berdaulat lain berdasarkan atribusi yang tidak 100% pasti adalah tindakan yang sangat gegabah dan berisiko memicu konflik dengan pihak yang salah. Ini adalah pelanggaran etika *Jus ad Bellum* (khususnya *just cause*).
+>    * **Risiko *False Flag*:** Tidak dapat dikesampingkan kemungkinan bahwa serangan tersebut dilakukan oleh pihak ketiga dengan tujuan untuk memprovokasi perang antara Arkara dan Samudera Biru.
+>
+>* **Kualifikasi Hukum Serangan Awal yang Diperdebatkan:**
+>    * **Tidak Memenuhi Ambang Batas "Serangan Bersenjata":** Tim dapat berargumen bahwa meskipun serangan ini serius, ia tidak menyebabkan kerusakan fisik permanen atau korban jiwa. Oleh karena itu, ia tidak memenuhi ambang batas tinggi untuk *armed attack* (Aturan 71). Kerugian ekonomi, sebesar apapun, secara hukum tidak secara otomatis setara dengan serangan militer.
+>    * **Implikasi:** Jika ini bukan *armed attack*, maka tidak ada dasar hukum di bawah Pasal 51 untuk merespons dengan kekuatan militer (termasuk OCO yang bersifat militer). Arkara hanya terbatas pada *countermeasures* non-kekuatan.
 
-* **Kualifikasi Hukum Serangan Awal yang Diperdebatkan:**
-    * **Tidak Memenuhi Ambang Batas "Serangan Bersenjata":** Tim dapat berargumen bahwa meskipun serangan ini serius, ia tidak menyebabkan kerusakan fisik permanen atau korban jiwa. Oleh karena itu, ia tidak memenuhi ambang batas tinggi untuk *armed attack* (Aturan 71). Kerugian ekonomi, sebesar apapun, secara hukum tidak secara otomatis setara dengan serangan militer.
-    * **Implikasi:** Jika ini bukan *armed attack*, maka tidak ada dasar hukum di bawah Pasal 51 untuk merespons dengan kekuatan militer (termasuk OCO yang bersifat militer). Arkara hanya terbatas pada *countermeasures* non-kekuatan.
+> * **Risiko Eskalasi yang Tidak Proporsional:**
+>    * **Sifat Target Balasan:** Menargetkan satelit komunikasi militer adalah eskalasi yang sangat signifikan. Satelit adalah aset strategis. Samudera Biru dapat menginterpretasikan tindakan ini bukan sebagai *countermeasure*, melainkan sebagai tindakan perang (*act of war*) pertama, yang dapat membenarkan respons kinetik dari pihak mereka.
+>    * **Pelanggaran Prinsip Upaya Terakhir (*Last Resort*):** Arkara belum sepenuhnya menempuh semua jalur non-kekerasan. Opsi yang tersedia termasuk membawa bukti ke Dewan Keamanan PBB, menggalang sanksi ekonomi internasional, atau melakukan negosiasi melalui perantara pihak ketiga. Langsung melompat ke respons militer siber adalah pelanggaran prinsip *last resort*.
+>    * **Ketidakjelasan Efek:** Operasi siber terhadap satelit memiliki efek yang tidak dapat diprediksi sepenuhnya. Apakah "menonaktifkan sementara" dapat secara tidak sengaja menyebabkan kerusakan permanen? Siapa yang bertanggung jawab jika satelit tersebut keluar dari orbit dan menjadi sampah antariksa yang berbahaya? Ini menunjukkan risiko proporsionalitas yang tidak terkendali.
 
-* **Risiko Eskalasi yang Tidak Proporsional:**
-    * **Sifat Target Balasan:** Menargetkan satelit komunikasi militer adalah eskalasi yang sangat signifikan. Satelit adalah aset strategis. Samudera Biru dapat menginterpretasikan tindakan ini bukan sebagai *countermeasure*, melainkan sebagai tindakan perang (*act of war*) pertama, yang dapat membenarkan respons kinetik dari pihak mereka.
-    * **Pelanggaran Prinsip Upaya Terakhir (*Last Resort*):** Arkara belum sepenuhnya menempuh semua jalur non-kekerasan. Opsi yang tersedia termasuk membawa bukti ke Dewan Keamanan PBB, menggalang sanksi ekonomi internasional, atau melakukan negosiasi melalui perantara pihak ketiga. Langsung melompat ke respons militer siber adalah pelanggaran prinsip *last resort*.
-    * **Ketidakjelasan Efek:** Operasi siber terhadap satelit memiliki efek yang tidak dapat diprediksi sepenuhnya. Apakah "menonaktifkan sementara" dapat secara tidak sengaja menyebabkan kerusakan permanen? Siapa yang bertanggung jawab jika satelit tersebut keluar dari orbit dan menjadi sampah antariksa yang berbahaya? Ini menunjukkan risiko proporsionalitas yang tidak terkendali.
-
-Simulasi debat ini memaksa peserta untuk tidak hanya memahami aturan, tetapi juga mengapresiasi ambiguitas, risiko, dan pertaruhan tinggi yang terlibat dalam pengambilan keputusan strategis di era *cyber warfare*.
+> Simulasi debat ini memaksa peserta untuk tidak hanya memahami aturan, tetapi juga mengapresiasi ambiguitas, risiko, dan pertaruhan tinggi yang terlibat dalam pengambilan keputusan strategis di era *cyber warfare*.
 
 
  * **Diagram Kerangka Argumentasi Debat:**
