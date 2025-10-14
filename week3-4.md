@@ -24,6 +24,45 @@ Digitalisasi ini, meskipun meningkatkan efektivitas operasional secara eksponens
 
 Berdasarkan analisis fungsional dan tugas pokok, doktrin siber TNI AL dapat dihipotesiskan berlandaskan pada tiga pilar operasional yang saling memperkuat: Operasi Siber Defensif, Operasi Siber Ofensif, dan Operasi Informasi.
 
+```mermaid
+graph LR
+    subgraph "Doktrin Siber TNI AL"
+        direction TB
+        A[Tujuan Utama: Supremasi Siber Maritim]
+        A --> B(Pilar 1: Operasi Siber Defensif - DCO);
+        A --> C(Pilar 2: Operasi Siber Ofensif - OCO);
+        A --> D(Pilar 3: Operasi Informasi - IO);
+    end
+
+    subgraph "DCO: Perisai Digital 🛡️"
+        B1[Mission Assurance]
+        B --> B1
+        B1 --> B2[Proteksi KRI & Alutsista]
+        B1 --> B3[Keamanan Jaringan C4ISR]
+        B1 --> B4[Ketahanan Pangkalan & Logistik]
+    end
+
+    subgraph "OCO: Trisula Digital ⚔️"
+        C1[Proyeksi Kekuatan]
+        C --> C1
+        C1 --> C2[ISR Siber / Intelijen]
+        C1 --> C3[Penyiapan Medan Tempur]
+        C1 --> C4[Serangan Terintegrasi Siber-Kinetik]
+    end
+
+    subgraph "IO: Dominasi Kognitif 🧠"
+        D1[Penguasaan Narasi]
+        D --> D1
+        D1 --> D2[Manajemen Narasi Strategis]
+        D1 --> D3[Kontra-Disinformasi]
+        D1 --> D4[Operasi Psikologis/PSYOP]
+    end
+
+    style B fill:#cde4f9,stroke:#333
+    style C fill:#f9e7cd,stroke:#333
+    style D fill:#d4edda,stroke:#333
+```
+
 **Pilar I: Operasi Siber Defensif (DCO) Maritim – Menjamin Ketahanan Operasional Armada**
 
 Pilar ini merupakan fondasi eksistensial bagi kapabilitas siber militer. Prioritas utamanya adalah proteksi terhadap aset, jaringan, dan sistem informasi untuk menjamin kesiapan tempur dan keberlangsungan komando dan kendali. Tujuan akhir dari DCO adalah *resilience* (ketahanan)—kemampuan untuk menahan serangan, beroperasi dalam kondisi terdegradasi, dan pulih dengan cepat.
@@ -105,6 +144,36 @@ Jika Perpres 82/2022 mendefinisikan "aset yang harus dilindungi," maka Perpres 4
 
 Kerangka regulasi ini secara kolektif menyediakan **legitimasi, struktur, dan strategi** bagi pertahanan siber Indonesia. Doktrin siber militer tidak beroperasi dalam vakum, melainkan sebagai salah satu instrumen untuk mengimplementasikan dan mencapai tujuan yang diamanatkan dalam strategi keamanan siber nasional yang lebih luas.
 
+#### **Diagram Hubungan Regulasi Nasional**
+
+```mermaid
+graph TD
+    subgraph "Payung Hukum Siber Nasional"
+        P47[Perpres 47/2023: Strategi & Manajemen Krisis Siber Nasional]
+        P82[Perpres 82/2022: Pelindungan Infrastruktur Informasi Vital /IIV]
+    end
+
+    subgraph "Aktor Implementasi"
+        BSSN[Badan Siber dan Sandi Negara]
+        TNI[Tentara Nasional Indonesia]
+        KementerianLembaga[Kementerian/Lembaga]
+        Swasta[Sektor Swasta Penyelenggara IIV]
+    end
+
+    P47 -- Mengatur Strategi Umum --> BSSN;
+    P47 -- Memberi Mandat Krisis --> TNI;
+    P82 -- Menetapkan Kewajiban --> KementerianLembaga;
+    P82 -- Menetapkan Kewajiban --> Swasta;
+    P82 -- Menetapkan Sektor Pertahanan sebagai IIV --> TNI;
+
+    BSSN -- Berperan sebagai Koordinator & Regulator --> P82;
+    BSSN -- Berperan sebagai Koordinator --> KementerianLembaga;
+    BSSN -- Berperan sebagai Koordinator --> Swasta;
+
+    style P47 fill:#cde4f9,stroke:#333
+    style P82 fill:#f9e7cd,stroke:#333
+```
+
 ---
 
 ### **Bagian 3: Analisis Hukum Internasional yang Berlaku pada Operasi Siber: Interpretasi Tallinn Manual 2.0**
@@ -161,6 +230,31 @@ Apabila suatu situasi telah mencapai level konflik bersenjata, maka Hukum Humani
     * **Kewajiban:** Pihak penyerang harus mengambil semua **tindakan pencegahan yang mungkin (*feasible precautions*)** untuk meminimalkan dampak terhadap non-kombatan. Dalam konteks siber, ini mencakup verifikasi target secara ekstensif, pemodelan potensi kerusakan kolateral, dan penggunaan senjata siber yang memiliki efek terkontrol dan terbatas.
 
 Tallinn Manual 2.0, dengan segala keterbatasannya sebagai dokumen non-mengikat, menyediakan kerangka analisis yuridis yang paling canggih saat ini. Bagi perencana strategis militer dan pembuat kebijakan, manual ini berfungsi sebagai instrumen vital untuk memastikan bahwa operasi siber dirancang dan dilaksanakan sesuai dengan batas-batas hukum internasional.
+
+#### **Diagram Eskalasi Hukum Internasional dalam Operasi Siber**
+
+```mermaid
+graph TD
+    subgraph "Masa Damai (Jus ad Bellum)"
+        A[Operasi Siber Lintas Batas] --> B{Melanggar Kedaulatan?};
+        B -- Ya --> C[Tindakan Melanggar Hukum Internasional];
+        C --> D{Mencapai Ambang 'Use of Force'?};
+        D -- Ya --> E[Pelanggaran Serius Piagam PBB];
+        E --> F{Mencapai Ambang 'Armed Attack'?};
+    end
+
+    subgraph "Masa Konflik Bersenjata (Jus in Bello)"
+        F -- Ya --> G[Hak Membela Diri - Pasal 51  Aktif];
+        G --> H[Hukum Humaniter Internasional/HHI Berlaku Penuh];
+        H --> I[Prinsip Pembedaan /Distinction];
+        H --> J[Prinsip Proporsionalitas/Proportionality];
+        H --> K[Prinsip Kewaspadaan/Precaution];
+    end
+
+    style F fill:#ff0000,stroke:#333,color:#fff
+    style H fill:#f9e7cd,stroke:#333
+```
+
 
 ---
 
@@ -229,6 +323,36 @@ Ketiga elemen ini—doktrin, hukum, dan teknologi—harus bersinergi untuk menci
 
 Secara skematis, hubungan ini dapat digambarkan sebagai berikut: **Jalesveva Jayamahe membangun pedang dan perisai siber nasional; TDEK mengatur cara dan alasan penggunaannya; Tallinn Manual 2.0 menetapkan aturan main global; dan semua ini hanya dapat dicapai secara efektif dan berdaulat melalui fondasi kemandirian teknologi.**
 
+##### **Diagram Sinergi Doktrin dan Konsep Pertahanan Siber Nasional**
+
+```mermaid
+graph LR
+    subgraph "Tujuan Strategis Nasional"
+        CS[Cyber Sovereignty]
+    end
+
+    subgraph "Doktrin TNI"
+        JJ[Doktrin Pembinaan: Jalesveva Jayamahe]
+        TRIDEK[Doktrin Penggunaan: Tri Dharma Eka Karma]
+    end
+
+    subgraph "Faktor Pendukung & Pembatas"
+        KT[Kemandirian Teknologi Pertahanan Siber Nasional]
+        HI[Hukum Internasional - Tallinn Manual 2.0]
+        RN[Regulasi Nasional - Perpres 47 & 82]
+    end
+
+    KT -- Membangun Kapabilitas --> JJ;
+    JJ -- Menghasilkan Kekuatan Siber --> TRIDEK;
+    TRIDEK -- Bertujuan Mencapai --> CS;
+
+    HI -- Membatasi & Melegitimasi --> TRIDEK;
+    RN -- Memberi Mandat & Kerangka --> TRIDEK;
+
+    style CS fill:#cde4f9,stroke:#333
+    style KT fill:#f9e7cd,stroke:#333
+```
+
 
 ---
 
@@ -248,13 +372,13 @@ Aktivitas ini dirancang sebagai sebuah simulasi intelektual untuk mengaplikasika
 
 #### **6.2. Mosi Debat**
 
-> **"Berdasarkan kerangka hukum internasional dan pertimbangan strategis, Negara Arkara dibenarkan untuk melaksanakan operasi siber balasan yang bersifat rahasia (OCO) untuk menonaktifkan sementara sistem kontrol satelit komunikasi militer utama milik Negara Samudera Biru."**
+**"Berdasarkan kerangka hukum internasional dan pertimbangan strategis, Negara Arkara dibenarkan untuk melaksanakan operasi siber balasan yang bersifat rahasia (OCO) untuk menonaktifkan sementara sistem kontrol satelit komunikasi militer utama milik Negara Samudera Biru."**
 
 #### **6.3. Struktur dan Peran Debat**
 
 Peserta akan dibagi menjadi dua tim: Tim Proposisi (mendukung mosi) dan Tim Oposisi (menentang mosi). Setiap tim harus membangun argumennya dengan merujuk secara eksplisit pada Piagam PBB, prinsip-prinsip dalam Tallinn Manual 2.0, dan konsep etika perang.
 
-**A. Kerangka Argumentasi Tim Proposisi (Mendukung Respons Militer Siber)**
+>**A. Kerangka Argumentasi Tim Proposisi (Mendukung Respons Militer Siber)**
 
 * **Argumentasi Kualifikasi Hukum Serangan Awal:**
     * **Pelanggaran Kedaulatan Serius:** Serangan terhadap pelabuhan adalah pelanggaran kedaulatan yang tidak dapat diperdebatkan (Tallinn Manual, Aturan 4), karena menghasilkan efek fisik yang merusak (kelumpuhan operasional) di dalam teritori Arkara.
@@ -286,6 +410,38 @@ Peserta akan dibagi menjadi dua tim: Tim Proposisi (mendukung mosi) dan Tim Opos
 
 Simulasi debat ini memaksa peserta untuk tidak hanya memahami aturan, tetapi juga mengapresiasi ambiguitas, risiko, dan pertaruhan tinggi yang terlibat dalam pengambilan keputusan strategis di era *cyber warfare*.
 
+
+ * **Diagram Kerangka Argumentasi Debat:**
+
+    ```mermaid
+    flowchart LR
+        Mosi["Mosi Debat-- Serang Balik Sistem Perbankan?"]
+
+        subgraph "Tim_Proposisi"
+            P1["Serangan Awal = 'Use of Force' - Dampak Ekonomi Masif"]
+            P2["Bahkan Mungkin 'Armed Attack' - Serangan thd Urat Nadi Ekonomi"]
+            P3["Respons Proporsional - Non-Kinetik vs Non-Kinetik"]
+            P4["Kebutuhan Mendesak - Diplomasi Gagal"]
+            P5["Menargetkan Sistem Keuangan - Menekan Kemampuan Perang"]
+        end
+
+        subgraph "Tim_Oposisi"
+           O1["Problem Atribusi -Keyakinan < 100% = Risiko Salah Target"]
+            O2["Tidak Memenuhi Ambang 'Armed Attack' - Tidak ada korban jiwa"]
+            O3["Respons Tidak Proporsional - Merugikan Jutaan Warga Sipil"]
+            O4["Melanggar Prinsip Pembedaan - Target Sipil Murni"]
+            O5["Risiko Eskalasi Menjadi Perang Kinetik"]
+            O6["Melanggar Prinsip 'Upaya Terakhir'"]
+        end
+
+        Mosi --> Tim_Proposisi
+        Mosi --> Tim_Oposisi
+
+        style Tim_Proposisi fill:#d4edda,stroke:#333
+        style Tim_Oposisi fill:#f8d7da,stroke:#333
+
+    ```
+
 ---
 
 ### **Bagian 7: Studi Kasus – Analisis Operasi Siber dalam Konflik Rusia-Ukraina**
@@ -316,6 +472,23 @@ Bertentangan dengan ekspektasi banyak analis, "perang kilat siber" (*cyber blitz
     * **Starlink (SpaceX):** Pengerahan cepat ribuan terminal satelit Starlink oleh SpaceX memberikan redundansi komunikasi yang vital bagi militer dan pemerintah Ukraina setelah serangan Viasat, secara efektif menetralisir salah satu tujuan strategis awal Rusia.
 * **Mobilisasi "IT Army of Ukraine":** Pemerintah Ukraina mengadopsi strategi inovatif dengan membentuk "IT Army," sebuah kolektif sukarelawan global yang terdiri dari peretas, profesional TI, dan aktivis. Melalui aplikasi seperti Telegram, mereka mengoordinasikan serangan DDoS dan disrupsi terhadap target-target Rusia (situs pemerintah, bank, media negara). Ini merupakan contoh pertama dari **perang siber yang di-*crowdsource* secara efektif** pada skala besar.
 
+timeline
+    title Perang Hibrida di Ukraina (Fase Awal 2022)
+    23 Februari 2022
+        : T-1 Jam : Serangan Siber Masif terhadap Satelit Viasat KA-SAT
+        : Tujuan: Melumpuhkan Komando & Kendali Militer Ukraina
+    24 Februari 2022
+        : T=0 : Invasi Kinetik Skala Penuh Dimulai
+        : Pengerahan Wiper Malware (HermeticWiper) ke Jaringan Pemerintah & Keuangan Ukraina
+        : Gelombang Serangan DDoS terhadap Situs-situs Kunci
+    26 Februari 2022
+        : Pembentukan "IT Army of Ukraine"
+        : Mobilisasi Hacktivis Global untuk Serangan Balik
+    Minggu-minggu Berikutnya
+        : Pengerahan Cepat Terminal Satelit Starlink oleh SpaceX
+        : Perang Informasi Intensif di Media Sosial
+        : Laporan dari Microsoft & Google tentang Deteksi Ancaman
+        
 #### **7.4. Pelajaran Strategis yang Dipetik (*Strategic Lessons Learned*)**
 
 Konflik di Ukraina memberikan beberapa pelajaran fundamental bagi doktrin dan strategi siber global:
