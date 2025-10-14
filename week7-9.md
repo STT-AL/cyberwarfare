@@ -206,7 +206,7 @@ Persistensi adalah kumpulan teknik yang digunakan oleh *malware* atau penyerang 
 
 Setelah persistensi tercapai pada titik pendaratan awal (*beachhead*), tujuan berikutnya adalah bergerak secara lateral untuk mencapai target yang sebenarnya. Target sebenarnya jarang berada di mesin pertama yang berhasil dikompromikan (yang mungkin hanya laptop staf junior). Target sebenarnya mungkin adalah server basis data, stasiun kerja seorang insinyur R\&D, atau, yang paling berharga, *Domain Controller* (DC) dalam lingkungan Windows Active Directory.
 
-  * **a. Fase 1: Pengumpulan Kredensial (*Credential Harvesting*)**
+  * **a. Pengumpulan Kredensial (*Credential Harvesting*)**
 
       * **Tujuan:** Mendapatkan kata sandi (baik dalam bentuk *plaintext* maupun *hash*) dari mesin yang telah dikompromikan. Kredensial ini adalah kunci untuk membuka pintu ke mesin lain di jaringan.
       * **Alat Kunci: Mimikatz**
