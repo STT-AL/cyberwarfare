@@ -9,33 +9,52 @@ Tujuan bagian ini adalah untuk menguji pemahaman Anda terhadap konsep-konsep kun
 #### **I. Pilihan Ganda (Pilih jawaban yang paling tepat)**
 
 1.  Berdasarkan materi, Peraturan Presiden No. 82 Tahun 2022 memiliki peran fundamental dalam postur keamanan siber nasional Indonesia dengan cara...
+
     a.  Membentuk unit siber khusus di bawah TNI.
     b.  Mengatur tata cara penindakan kejahatan siber oleh Kepolisian.
+
     c.  **Mengidentifikasi dan menetapkan kewajiban pelindungan terhadap Infrastruktur Informasi Vital (IIV).**
+
     d.  Menetapkan Hukum Humaniter Internasional sebagai hukum yang berlaku di ruang siber Indonesia.
 
 2.  Menurut interpretasi Tallinn Manual 2.0, sebuah serangan siber yang skala dan efeknya setara dengan serangan militer konvensional (misalnya, menyebabkan bendungan jebol) akan melampaui ambang batas **"Serangan Bersenjata" (*Armed Attack*)**. Hak fundamental apa yang diperoleh negara korban dalam kondisi tersebut?
+
     a.  Hak untuk mengajukan protes diplomatik ke PBB.
+
     b.  Hak untuk melakukan tindakan balasan (*countermeasures*) non-kekuatan.
+
     c.  **Hak inheren untuk membela diri (*self-defense*) sesuai Pasal 51 Piagam PBB, yang dapat mencakup respons militer.**
+
     d.  Hak untuk meminta kompensasi finansial melalui Mahkamah Internasional.
 
 3.  Dilema etis paling signifikan yang timbul dari penargetan infrastruktur fungsi-ganda (*dual-use infrastructure*) dalam *cyber warfare* adalah konflik dengan prinsip...
+
     a.  Kebutuhan Militer (*Military Necessity*)
+
     b.  Proporsionalitas (*Proportionality*)
+
     c.  Kewaspadaan (*Precaution*)
+
     d.  **Pembedaan (*Distinction*)**
 
 4.  Dalam konteks doktrin pertahanan Indonesia, perbedaan utama antara Doktrin TNI "Tri Dharma Eka Karma" (TRIDEK) dan Doktrin TNI AL "Jalesveva Jayamahe" terkait siber adalah...
+
     a.  TRIDEK berfokus pada pertahanan, sementara Jalesveva Jayamahe berfokus pada serangan.
+
     b.  **TRIDEK adalah doktrin penggunaan kekuatan siber, sementara Jalesveva Jayamahe adalah doktrin pembinaan kekuatan siber.**
+
     c.  TRIDEK hanya berlaku di masa perang, sementara Jalesveva Jayamahe berlaku di masa damai.
+
     d.  TRIDEK mengatur TNI secara umum, sementara Jalesveva Jayamahe hanya mengatur pasukan khusus siber.
 
 5.  Serangan siber Rusia terhadap jaringan satelit Viasat sesaat sebelum invasi ke Ukraina adalah contoh paradigmatik dari...
+
     a.  Operasi psikologis (PSYOP).
+
     b.  Serangan terhadap infrastruktur finansial.
+
     c.  **Operasi siber-kinetik terintegrasi yang bertujuan mengganggu komando dan kendali musuh.**
+
     d.  Kampanye spionase siber jangka panjang.
 
 -----
