@@ -1,7 +1,3 @@
-Sangat baik. Mari kita lanjutkan ke modul praktikum berikutnya yang berfokus pada operasi ofensif. Modul tiga minggu ini akan menjadi sesi yang sangat teknis dan mendalam.
-
------
-
 ## **MODUL PRAKTIKUM MINGGU 3-5: OPERASI SIBER OFENSIF**
 
 **Mata Kuliah:** Keamanan Siber Terapan
