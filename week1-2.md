@@ -1,6 +1,3 @@
-Tentu, berikut adalah materi pembelajaran yang sangat komprehensif dan mendalam untuk dua minggu pertama, mencakup pengantar *cyber warfare* dengan semua komponen yang Anda minta.
-
------
 
 ## **Materi Pembelajaran Minggu 1-2: Pengantar Komprehensif *Cyber Warfare***
 
