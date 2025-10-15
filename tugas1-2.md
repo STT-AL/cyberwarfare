@@ -9,33 +9,52 @@ Tujuan bagian ini adalah untuk menguji pemahaman Anda terhadap konsep-konsep kun
 #### **I. Pilihan Ganda (Pilih jawaban yang paling tepat)**
 
 1.  Menurut definisi yang disajikan dalam materi, elemen **paling fundamental** yang membedakan *Cyber Warfare* dari bentuk serangan siber lainnya adalah...
+
     a.  Penggunaan *malware* yang canggih
+
     b.  **Aktornya adalah negara-bangsa (atau proksi-nya)**
+
     c.  Menargetkan infrastruktur digital
+
     d.  Menyebabkan kerugian finansial yang besar
 
 2.  Pengakuan *Cyberspace* sebagai domain peperangan kelima berarti bahwa...
+
     a.  Perang hanya akan terjadi di dunia maya.
+
     b.  Semua negara wajib memiliki angkatan siber.
+
     c.  **Aktivitas di ruang siber dapat dianggap setara dengan aksi militer di domain fisik.**
+
     d.  Hukum perang tidak berlaku di internet.
 
 3.  Serangan yang menargetkan persepsi manusia, seperti kampanye disinformasi dan operasi psikologis (PSYOP), terjadi pada lapisan *Cyberspace* yang mana?
+
     a.  *Physical Layer*
     b.  *Logical Layer*
+
     c.  ***Cognitive Layer***
+
     d.  *Application Layer*
 
 4.  Peristiwa historis yang dianggap sebagai "titik balik" di mana serangan siber pertama kali berhasil melumpuhkan infrastruktur digital sebuah negara secara masif adalah...
+
     a.  Morris Worm (1988)
+
     b.  Moonlight Maze (1998)
+
     c.  **Serangan Siber terhadap Estonia (2007)**
+
     d.  Penemuan Stuxnet (2010)
 
 5.  Tindakan proaktif yang diambil di luar jaringan sendiri untuk memproyeksikan kekuatan dan mencapai tujuan militer, seperti melakukan spionase atau melancarkan serangan, diklasifikasikan sebagai...
+
     a.  Operasi Siber Defensif (DCO)
+
     b.  **Operasi Siber Ofensif (OCO)**
+
     c.  Operasi Informasi (IO)
+
     d.  Jaminan Misi (*Mission Assurance*)
 
 -----
